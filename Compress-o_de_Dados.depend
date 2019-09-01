@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567366983 source:c:\users\pedri\dropbox\github\compress-o_de_dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+	<locale.h>
+
+1567367250 c:\users\pedri\dropbox\github\compress-o_de_dados\huffman.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
